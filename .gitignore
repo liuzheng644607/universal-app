@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Rush temporary files
+common/deploy/
+common/temp/
+common/autoinstallers/*/.npmrc
+**/.rush/temp/
